@@ -5,7 +5,7 @@ int main()
     // int a = 23, b = 56;
 
     // printf("%d", 23 ^ 56);
-
+   
     printf("%d", 23 ^ 12);
 }
 
